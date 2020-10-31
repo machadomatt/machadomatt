@@ -31,6 +31,4 @@
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
-<span><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machadomatt&layout=compact" alt="machadomatt" /></span>
-
-<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=machadomatt&show_icons=true" alt="machadomatt" /></span>
+<span><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machadomatt&layout=compact" alt="machadomatt" /></span><span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=machadomatt&show_icons=true" alt="machadomatt" /></span>
