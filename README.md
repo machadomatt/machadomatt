@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matheus</h1>
 <h3 align="center">I am a Front-end developer on the road to becoming a Full-stack.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=machadomatt" alt="machadomatt" /></a> </p>
-
-- 💬 Fell free to ask me about **HTML, CSS, PHP or SEO**
+- 📚 Studying and developing small projects
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -31,4 +29,4 @@
 <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
 
-<span><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machadomatt&layout=compact" alt="machadomatt" /></span><span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=machadomatt&show_icons=true" alt="machadomatt" /></span>
+<span><img align="top" src="https://github-readme-stats.vercel.app/api?username=machadomatt&show_icons=true" alt="machadomatt" /></span><span>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machadomatt&layout=compact" alt="machadomatt" /></span>
