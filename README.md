@@ -30,3 +30,5 @@
 </p>
 
 <span><img align="top" src="https://github-readme-stats.vercel.app/api?username=machadomatt&show_icons=true" alt="machadomatt" /></span><span>&nbsp;<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=machadomatt&layout=compact" alt="machadomatt" /></span>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=machadomatt.readme)
