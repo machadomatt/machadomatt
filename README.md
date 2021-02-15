@@ -1,6 +1,6 @@
 # Hi 👋, I'm Matheus
 
-## 📚 Studying and developing small projects
+### 📚 Studying and developing small projects
 
 ### Connect with me:
 <a href="https://linkedin.com/in/matheushmachado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="matheushmachado" height="30" width="40" /></a>
