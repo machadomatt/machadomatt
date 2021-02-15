@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Matheus</h1>
-<h3 align="center">I am a Front-end developer on the road to becoming a Full-stack.</h3>
+<h1>Hi 👋, I'm Matheus</h1>
+<h3>I am a Front-end developer on the road to becoming a Full-stack.</h3>
 
 - 📚 Studying and developing small projects
 
