@@ -1,16 +1,13 @@
-<h1>Hi 👋, I'm Matheus</h1>
-<h3>I am a Front-end developer on the road to becoming a Full-stack.</h3>
+# Hi 👋, I'm Matheus
 
-- 📚 Studying and developing small projects
+## 📚 Studying and developing small projects
 
-<p align="left">
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 <a href="https://linkedin.com/in/matheushmachado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="matheushmachado" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12464230" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12464230" height="30" width="40" /></a>
 <a href="https://instagram.com/synystermatts" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="synystermatts" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
 
 ![HTML](https://img.shields.io/badge/-HTML-E54C21?style=flat&logoColor=fff&logo=html5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-007CC3?style=flat&logoColor=fff&logo=css3)&nbsp;
